@@ -77,6 +77,7 @@ A DSA prep app with visualized algorithms and multi-language solutions to help c
 **Database & Tools**
 <br>
 <img src="https://img.shields.io/badge/MongoDB-E8D5FF?style=flat&logo=mongodb&logoColor=2D3142&labelColor=E8D5FF" height="30"/>
+<img src="https://img.shields.io/badge/Firebase-E8D5FF?style=flat&logo=firebase&logoColor=2D3142&labelColor=E8D5FF" height="30"/>
 <img src="https://img.shields.io/badge/Redis-E8D5FF?style=flat&logo=redis&logoColor=2D3142&labelColor=E8D5FF" height="30"/>
 <img src="https://img.shields.io/badge/Git-E8D5FF?style=flat&logo=git&logoColor=2D3142&labelColor=E8D5FF" height="30"/>
 <img src="https://img.shields.io/badge/GitHub-E8D5FF?style=flat&logo=github&logoColor=2D3142&labelColor=E8D5FF" height="30"/>
