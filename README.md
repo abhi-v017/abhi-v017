@@ -61,10 +61,10 @@ A DSA prep app with visualized algorithms and multi-language solutions to help c
 
 **Frontend**
 <br>
-<img src="https://img.shields.io/badge/React-CDEAC0?style=for-the-badge&logo=react&logoColor=2D3142&labelColor=CDEAC0" height="30"/>
-<img src="https://img.shields.io/badge/React_Native-CDEAC0?style=for-the-badge&logo=react&logoColor=2D3142&labelColor=CDEAC0" height="30"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-CDEAC0?style=for-the-badge&logo=tailwindcss&logoColor=2D3142&labelColor=CDEAC0" height="30"/>
-<img src="https://img.shields.io/badge/Vite-CDEAC0?style=for-the-badge&logo=vite&logoColor=2D3142&labelColor=CDEAC0" height="30"/>
+<img src="https://img.shields.io/badge/React-CDEAC0?style=for-the-badge&logo=react&logoColor=2D3142&labelColor=CDEAC0" height="30" border_radius=18/>
+<img src="https://img.shields.io/badge/React_Native-CDEAC0?style=for-the-badge&logo=react&logoColor=2D3142&labelColor=CDEAC0" height="30" border_radius=18/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-CDEAC0?style=for-the-badge&logo=tailwindcss&logoColor=2D3142&labelColor=CDEAC0" height="30" border_radius=18/>
+<img src="https://img.shields.io/badge/Vite-CDEAC0?style=for-the-badge&logo=vite&logoColor=2D3142&labelColor=CDEAC0" height="30" border_radius=18/>
 
 **Backend**
 <br>
