@@ -34,7 +34,7 @@ A full-stack short-link platform with Google OAuth, click analytics, QR generati
 - Click analytics dashboard (daily trends, device, referrer) with Recharts
 - Custom aliases, nanoid codes, one-click QR download
 
-<img src="https://img.shields.io/badge/React_+_Vite-C9E4FF?style=flat-square&logo=react&logoColor=2D3142&labelColor=C9E4FF" height="24"/> <img src="https://img.shields.io/badge/Node.js-CDEAC0?style=flat-square&logo=node.js&logoColor=2D3142&labelColor=CDEAC0" height="24"/> <img src="https://img.shields.io/badge/Firebase-FFD6BA?style=flat-square&logo=firebase&logoColor=2D3142&labelColor=FFD6BA" height="24"/> <img src="https://img.shields.io/badge/Recharts-E8D5FF?style=flat-square&logoColor=2D3142&labelColor=E8D5FF" height="24"/>
+<img src="https://img.shields.io/badge/React_+_Vite-C9E4FF?style=flat&logo=react&logoColor=2D3142&labelColor=C9E4FF" height="24"/> <img src="https://img.shields.io/badge/Node.js-CDEAC0?style=flat&logo=node.js&logoColor=2D3142&labelColor=CDEAC0" height="24"/> <img src="https://img.shields.io/badge/Firebase-FFD6BA?style=flat&logo=firebase&logoColor=2D3142&labelColor=FFD6BA" height="24"/> <img src="https://img.shields.io/badge/Recharts-E8D5FF?style=flat&logoColor=2D3142&labelColor=E8D5FF" height="24"/>
 
 **[Live Demo](#)** &nbsp;·&nbsp; **[Source Code](#)**
 
@@ -46,7 +46,7 @@ A DSA prep app with visualized algorithms and multi-language solutions to help c
 - Multi-language code (JS, Python, C++) with progress tracking
 - Deployed on Vercel + Render, Google OAuth, CORS handled end-to-end
 
-<img src="https://img.shields.io/badge/React-C9E4FF?style=flat-square&logo=react&logoColor=2D3142&labelColor=C9E4FF" height="24"/> <img src="https://img.shields.io/badge/Node.js-CDEAC0?style=flat-square&logo=node.js&logoColor=2D3142&labelColor=CDEAC0" height="24"/> <img src="https://img.shields.io/badge/Express-FFD6BA?style=flat-square&logo=express&logoColor=2D3142&labelColor=FFD6BA" height="24"/> <img src="https://img.shields.io/badge/Firebase-E8D5FF?style=flat-square&logo=firebase&logoColor=2D3142&labelColor=E8D5FF" height="24"/>
+<img src="https://img.shields.io/badge/React-C9E4FF?style=flat&logo=react&logoColor=2D3142&labelColor=C9E4FF" height="24"/> <img src="https://img.shields.io/badge/Node.js-CDEAC0?style=flat&logo=node.js&logoColor=2D3142&labelColor=CDEAC0" height="24"/> <img src="https://img.shields.io/badge/Express-FFD6BA?style=flat&logo=express&logoColor=2D3142&labelColor=FFD6BA" height="24"/> <img src="https://img.shields.io/badge/Firebase-E8D5FF?style=flat&logo=firebase&logoColor=2D3142&labelColor=E8D5FF" height="24"/>
 
 **[Live Demo](#)** &nbsp;·&nbsp; **[Source Code](#)**
 
@@ -56,32 +56,32 @@ A DSA prep app with visualized algorithms and multi-language solutions to help c
 
 **Languages**
 <br>
-<img src="https://img.shields.io/badge/JavaScript-FFE5B4?style=for-the-badge&logo=javascript&logoColor=2D3142&labelColor=FFE5B4" height="30"/>
-<img src="https://img.shields.io/badge/Python-FFE5B4?style=for-the-badge&logo=python&logoColor=2D3142&labelColor=FFE5B4" height="30"/>
+<img src="https://img.shields.io/badge/JavaScript-FFE5B4?style=flat&logo=javascript&logoColor=2D3142&labelColor=FFE5B4" height="30"/>
+<img src="https://img.shields.io/badge/Python-FFE5B4?style=flat&logo=python&logoColor=2D3142&labelColor=FFE5B4" height="30"/>
 
 **Frontend**
 <br>
-<img src="https://img.shields.io/badge/React-CDEAC0?style=for-the-badge&logo=react&logoColor=2D3142&labelColor=CDEAC0" height="30" border_radius=18/>
-<img src="https://img.shields.io/badge/React_Native-CDEAC0?style=for-the-badge&logo=react&logoColor=2D3142&labelColor=CDEAC0" height="30" border_radius=18/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-CDEAC0?style=for-the-badge&logo=tailwindcss&logoColor=2D3142&labelColor=CDEAC0" height="30" border_radius=18/>
-<img src="https://img.shields.io/badge/Vite-CDEAC0?style=for-the-badge&logo=vite&logoColor=2D3142&labelColor=CDEAC0" height="30" border_radius=18/>
+<img src="https://img.shields.io/badge/React-CDEAC0?style=flat&logo=react&logoColor=2D3142&labelColor=CDEAC0" height="30"/>
+<img src="https://img.shields.io/badge/React_Native-CDEAC0?style=flat&logo=react&logoColor=2D3142&labelColor=CDEAC0" height="30"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-CDEAC0?style=flat&logo=tailwindcss&logoColor=2D3142&labelColor=CDEAC0" height="30"/>
+<img src="https://img.shields.io/badge/Vite-CDEAC0?style=flat&logo=vite&logoColor=2D3142&labelColor=CDEAC0" height="30"/>
 
 **Backend**
 <br>
-<img src="https://img.shields.io/badge/Node.js-C9E4FF?style=for-the-badge&logo=node.js&logoColor=2D3142&labelColor=C9E4FF" height="30"/>
-<img src="https://img.shields.io/badge/Express.js-C9E4FF?style=for-the-badge&logo=express&logoColor=2D3142&labelColor=C9E4FF" height="30"/>
-<img src="https://img.shields.io/badge/Socket.io-C9E4FF?style=for-the-badge&logo=socket.io&logoColor=2D3142&labelColor=C9E4FF" height="30"/>
-<img src="https://img.shields.io/badge/WebRTC-C9E4FF?style=for-the-badge&logo=webrtc&logoColor=2D3142&labelColor=C9E4FF" height="30"/>
-<img src="https://img.shields.io/badge/JWT-C9E4FF?style=for-the-badge&logo=jsonwebtokens&logoColor=2D3142&labelColor=C9E4FF" height="30"/>
+<img src="https://img.shields.io/badge/Node.js-C9E4FF?style=flat&logo=node.js&logoColor=2D3142&labelColor=C9E4FF" height="30"/>
+<img src="https://img.shields.io/badge/Express.js-C9E4FF?style=flat&logo=express&logoColor=2D3142&labelColor=C9E4FF" height="30"/>
+<img src="https://img.shields.io/badge/Socket.io-C9E4FF?style=flat&logo=socket.io&logoColor=2D3142&labelColor=C9E4FF" height="30"/>
+<img src="https://img.shields.io/badge/WebRTC-C9E4FF?style=flat&logo=webrtc&logoColor=2D3142&labelColor=C9E4FF" height="30"/>
+<img src="https://img.shields.io/badge/JWT-C9E4FF?style=flat&logo=jsonwebtokens&logoColor=2D3142&labelColor=C9E4FF" height="30"/>
 
 **Database & Tools**
 <br>
-<img src="https://img.shields.io/badge/MongoDB-E8D5FF?style=for-the-badge&logo=mongodb&logoColor=2D3142&labelColor=E8D5FF" height="30"/>
-<img src="https://img.shields.io/badge/Redis-E8D5FF?style=for-the-badge&logo=redis&logoColor=2D3142&labelColor=E8D5FF" height="30"/>
-<img src="https://img.shields.io/badge/Git-E8D5FF?style=for-the-badge&logo=git&logoColor=2D3142&labelColor=E8D5FF" height="30"/>
-<img src="https://img.shields.io/badge/GitHub-E8D5FF?style=for-the-badge&logo=github&logoColor=2D3142&labelColor=E8D5FF" height="30"/>
-<img src="https://img.shields.io/badge/Postman-E8D5FF?style=for-the-badge&logo=postman&logoColor=2D3142&labelColor=E8D5FF" height="30"/>
-<img src="https://img.shields.io/badge/Vercel-E8D5FF?style=for-the-badge&logo=vercel&logoColor=2D3142&labelColor=E8D5FF" height="30"/>
+<img src="https://img.shields.io/badge/MongoDB-E8D5FF?style=flat&logo=mongodb&logoColor=2D3142&labelColor=E8D5FF" height="30"/>
+<img src="https://img.shields.io/badge/Redis-E8D5FF?style=flat&logo=redis&logoColor=2D3142&labelColor=E8D5FF" height="30"/>
+<img src="https://img.shields.io/badge/Git-E8D5FF?style=flat&logo=git&logoColor=2D3142&labelColor=E8D5FF" height="30"/>
+<img src="https://img.shields.io/badge/GitHub-E8D5FF?style=flat&logo=github&logoColor=2D3142&labelColor=E8D5FF" height="30"/>
+<img src="https://img.shields.io/badge/Postman-E8D5FF?style=flat&logo=postman&logoColor=2D3142&labelColor=E8D5FF" height="30"/>
+<img src="https://img.shields.io/badge/Vercel-E8D5FF?style=flat&logo=vercel&logoColor=2D3142&labelColor=E8D5FF" height="30"/>
 
 ## ✦ GitHub Stats
 
@@ -103,10 +103,10 @@ A DSA prep app with visualized algorithms and multi-language solutions to help c
 
 <div align="center">
 
-<a href="mailto:vermabhi.017@gmail.com"><img src="https://img.shields.io/badge/Email-FFD6BA?style=for-the-badge&logo=gmail&logoColor=2D3142&labelColor=FFD6BA" height="32"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-C9E4FF?style=for-the-badge&logo=linkedin&logoColor=2D3142&labelColor=C9E4FF" height="32"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-CDEAC0?style=for-the-badge&logo=github&logoColor=2D3142&labelColor=CDEAC0" height="32"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-E8D5FF?style=for-the-badge&logo=vercel&logoColor=2D3142&labelColor=E8D5FF" height="32"/></a>
+<a href="mailto:vermabhi.017@gmail.com"><img src="https://img.shields.io/badge/Email-FFD6BA?style=flat&logo=gmail&logoColor=2D3142&labelColor=FFD6BA" height="32"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-C9E4FF?style=flat&logo=linkedin&logoColor=2D3142&labelColor=C9E4FF" height="32"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GitHub-CDEAC0?style=flat&logo=github&logoColor=2D3142&labelColor=CDEAC0" height="32"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-E8D5FF?style=flat&logo=vercel&logoColor=2D3142&labelColor=E8D5FF" height="32"/></a>
 
 <br><br>
 
